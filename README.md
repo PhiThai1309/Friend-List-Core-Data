@@ -2,7 +2,7 @@
 An UIKit application that manage a list of friends available via GOREST API and store the data in Core Data
 
 <p align="center">
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/71892904/225566961-48b5b217-7299-4e9c-8dde-de9b7116a2b0.png">
+  <img width="300" alt="image" src="https://user-images.githubusercontent.com/71892904/225567211-c245ad70-b4b0-4e06-b520-fa08ddf6d0fe.png">
   <img width="300" alt="image" src="https://user-images.githubusercontent.com/71892904/225554189-1be53e55-d057-47b8-b5a7-3917a5e5e59d.png">
 </p>
 
